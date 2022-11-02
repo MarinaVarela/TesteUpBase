@@ -1,0 +1,32 @@
+
+
+.fa-check,.btn-phone{
+    color: #078C1B;
+
+}
+.card{
+    
+    max-width: 540px;
+    --bs-card-border-color: none;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    
+}
+
+
+img    {
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+
+.fa-exclamation-triangle, .reportar-cor{
+    color: red;
+}
+
+.fa-star-o, .avaliar-cor{
+    color: blue;
+}
